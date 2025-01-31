@@ -25,7 +25,7 @@ Methodology:
 
 Output:
 
-	![Image](https://github.com/user-attachments/assets/0c628959-04bf-4c86-af84-acc78f360f20)
+![Image](https://github.com/user-attachments/assets/0c628959-04bf-4c86-af84-acc78f360f20)
 
  
 Conclusion:
