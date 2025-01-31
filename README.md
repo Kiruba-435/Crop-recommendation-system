@@ -1,7 +1,7 @@
-Project Title:   Crop Recommendation System
+#Project Title:   Crop Recommendation System
 
-Description:
-	The Crop Recommendation system is designed to assist farmer in making informed decision about which crops to plant based on various environmental factor.  By leveraging the Random Forest Classifier Algorithm,  The system aims to optimize crop yield and profitability.
+##Description:
+	###The Crop Recommendation system is designed to assist farmer in making informed decision about which crops to plant based on various environmental factor.  By leveraging the Random Forest Classifier Algorithm,  The system aims to optimize crop yield and profitability.
 
 Tech Stack:
 
