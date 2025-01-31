@@ -24,6 +24,7 @@ Methodology:
    	Develop a user-friendly website where farmers can enter environmental data and to get receive crop recommendation. 
 
 Output:
+
 	![Image](https://github.com/user-attachments/assets/cbcc8676-200f-477f-b4ee-d9b49c80f855)
 
  
